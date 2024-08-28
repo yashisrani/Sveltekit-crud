@@ -31,5 +31,9 @@
     "neucron-sdk": "^0.2.3",
     "neucron-signer": "^1.3.2",
     "scrypt-ts": "^1.3.31"
-  }
+  },
+  "description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
 }
